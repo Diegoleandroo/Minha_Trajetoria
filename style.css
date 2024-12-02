@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Krona+One&family=Lobster&family=Montserrat:wght@400;600&family=Vina+Sans&display=swap');
+
+
+
+.bo{
+  
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(51, 51, 51))
+
+}
+
+
+.Header {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    display: flex;
+    margin-top: -7%;
+}
+
+.topicos {
+
+ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    padding: 55px;
+    border-radius: -2%;
+    font-size: 1.5rem;
+    transition: ease-in-out;
+    
+
+}
+
+
+.topicos:hover{
+
+    background-color: rgba(240, 193, 41, 0.932);
+    border-radius: 70%;
+
+
+}
+
+.apresentacao {
+
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-weight: 300px;
+    
+}
+
+.titulo{
+
+    font-size: 2.25rem;
+    font-family: 'Krona One', sans-serif;
+    margin-left: 85px;
+    color: white;
+
+}
+
+
+
+.conteudo{
+    font-size: 1.5rem;
+    font-family: 'montserrat', sans-serif;
+    margin-left: 85px;
+    color: white;
+}
+
+
+
+.apresentacao_links{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+
+}
+
+.subtitulo{
+
+    font-family: 'Krone One', 'sans-serif';
+    font-weight: 300;
+    font-size: 1.5rem;
+    color: rgb(103, 103, 207);
+
+}
+
+.links{
+
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    border: 2px solid #b31eee ;
+    width: 50%;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.links:hover{
+    background-color: rgb(252, 180, 72);
+    
+}
+
+.minha_imagem{
+    width: 30%;
+    margin-left: 65%;
+    margin-top: -40000px;
+    object-fit: cover;
+    background-color: #e08d2f;
+    border-radius: 50%;
+  
+}
+
+.rodape{
+
+    padding: 24px;
+    color:rgb(103, 103, 207);
+    font-size: 2.21rem;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400px;
+}
+
+
+.destaque{
+
+    color: rgb(82, 82, 255);
+
+}
+
+.titulo2{
+
+    font-family: 'Krona One', sans-serif;
+    text-align: center;
+    color: white;
+    gap: 20px;
+    
+    
+}
+
+.bo2{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(73, 73, 73))
+
+}
+
+
+
+.bo3{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg, rgb(0, 0, 0), rgb(73, 73, 73))
+
+}
+
+.titulo3{
+
+    text-align: center;
+    font-size: 1.50rem;
+    margin-left: 80%;
+    font-family: 'Krona One', sans-serif;
+    color: white;
+}
+
+.card{
+
+    display: flex;
+    color: white;
+    margin-left: 800px;
+    font-size: 25px;
+    background-color: #831cac;
+    height: 2px;
+    width: 100px;
+    text-align: center;
+    
+}
+
+.card-link{
+
+    text-decoration: none;
+
+}
+
+
+.devv{
+
+    margin-left: 70%;
+    margin-top: -999%;
+
+}
+
+.titulo4{
+
+    font-size: 2.25rem;
+    font-family: 'Krona One', sans-serif;
+    margin-left: 85px;
+    color: white;
+    text-align: center;
+    margin-top: 500px;
+
+}
+
+.rodape4{
+
+    margin-top: 55%;
+
+
+}
